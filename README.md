@@ -33,6 +33,14 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 
 <img width="580" alt="Screen Shot 2022-08-20 at 9 34 14 AM" src="https://user-images.githubusercontent.com/103215686/185754839-ec94b23a-7ec9-4283-bbfe-9315f0e5b696.png">
 
+## Study Design: MechaCar vs Competition
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
 
 
 
