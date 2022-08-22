@@ -26,12 +26,15 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## T-Tests on Suspension Coils
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+<img width="444" alt="Screen Shot 2022-08-22 at 1 24 07 PM" src="https://user-images.githubusercontent.com/103215686/186002363-6241c0a1-6157-4514-a747-82616e347b32.png">
 
-<img width="520" alt="Screen Shot 2022-08-20 at 9 33 46 AM" src="https://user-images.githubusercontent.com/103215686/185754829-dc68c72d-b2f3-4ab9-b2ec-c19ec77e8ad2.png">
+<img width="486" alt="Screen Shot 2022-08-22 at 1 24 20 PM" src="https://user-images.githubusercontent.com/103215686/186002381-32bb45b9-13b3-4ab5-8053-5aae0174ce7d.png">
 
-<img width="582" alt="Screen Shot 2022-08-20 at 9 34 01 AM" src="https://user-images.githubusercontent.com/103215686/185754834-1540c56f-4a3c-49ac-8ae3-be7563739182.png">
+<img width="486" alt="Screen Shot 2022-08-22 at 1 24 29 PM" src="https://user-images.githubusercontent.com/103215686/186002403-108ead5c-e34a-493b-acec-89fd1a8c3655.png">
 
-<img width="580" alt="Screen Shot 2022-08-20 at 9 34 14 AM" src="https://user-images.githubusercontent.com/103215686/185754839-ec94b23a-7ec9-4283-bbfe-9315f0e5b696.png">
+<img width="486" alt="Screen Shot 2022-08-22 at 1 24 36 PM" src="https://user-images.githubusercontent.com/103215686/186002418-0d840313-34dc-4cfe-a4ab-aaaa3382ea25.png">
+
+
 
 ## Study Design: MechaCar vs Competition
 
